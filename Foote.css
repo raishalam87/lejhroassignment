@@ -1,0 +1,41 @@
+.lines{
+    background-color:#097bbd;
+    height: 10px;
+}
+.footer-home{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer-heading{
+    font-size: 25px;
+    color: #111;
+    font-weight: 600;
+}
+.footer-itms{
+    color: #222;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'san-feric';
+    line-height: 30px;
+    letter-spacing: 1px;
+    display: flex;
+    flex-direction: column;
+    transition: 1s;
+}
+.footer-itms:hover{
+    color: #097bbd;
+}
+.footer-icons{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.copyright{
+    color: #444;
+    font-size: 20px;
+}
+
+
+
+
